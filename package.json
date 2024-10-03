@@ -1,0 +1,22 @@
+{
+  "name": "pamodora-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScarZeus/Pamodora-app.git"
+  },
+  "author": "k kevin gladson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScarZeus/Pamodora-app/issues"
+  },
+  "homepage": "https://github.com/ScarZeus/Pamodora-app#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
